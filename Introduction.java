@@ -18,7 +18,7 @@ public class LearnGitHub
 
 }
 class Main{
-public static void main(String[] args){
+public static void main (String[] args){
   LearnGitHub learnGitHub=new LearnGitHub("beran santur","learning github which seems a bit confusing");
   System.out.println("Name = "+learnGitHub.getName()+" purpose = "+learnGitHub.getPurpose());
 
